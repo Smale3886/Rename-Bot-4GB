@@ -23,14 +23,14 @@ Daily Upload limit 100GB
 Price Rs 179  ind /🌎 2.16$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>madflixofficial@axl</code>
-<b>➜ PayPal :</b> <a href='https://www.paypal.me/jishudeveloper'>Click Here</a>
-<b>➜ QR Code :</b> <a href='https://telegra.ph/QR-Payment-07-24-4'>Click Here</a>
+<b>➜ Gmail:</b> <code>smale3886@gmail.com</code>
+<b>➜ Username:</b> <a href='https://t.me/AnimeUniverse369'>Click Here</a>
+<b>➜ QR Code :</b> <a href=''>Click Here</a>
 
-After Payment Send Screenshots Of Payment To Admin @MadflixOfficials"""
+Send Redeem Code Or Amazon Gift card. After Payment Send Screenshots Of Payment To Admin @AnimeUniverse369"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/calladminrobot"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/AnimeUniverse369"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
