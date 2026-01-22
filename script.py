@@ -20,17 +20,17 @@ class script(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
+<b>📢 Channel :</b> <a href='https://t.me/Shinchanbannedmovies'>ShinMon</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/AnimeUniverse369'>Anime Universe</a>
 
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+<b>♻️ Bot Made By :</b> @AnimeUniverse369"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> <code>madflixofficial@axl</code> 
+<b>🛍 Username:</b> <code>@AnimeUniverse369</code> 
 
 <b>📸 Send Screenshot After Donation To Activate Your Premium Plan </b> """
 
@@ -50,9 +50,9 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
 For Example :-
 
-<code>By @Madflix_Bots</code>
+<code>By @AnimeUniverse369</code>
 
-💬 For Any Help Contact @MadflixOfficials
+💬 For Any Help Contact @AnimeUniverse369_bot
 """
 
 
